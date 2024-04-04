@@ -1,0 +1,6 @@
+{
+    "name": "test",
+    "time_sleep": 5,
+    "mod_inp": false,
+    "mod_inp_path": "mod\\inp\\cnf.cnf"
+}
